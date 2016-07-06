@@ -1,0 +1,20 @@
+div {
+  width: 2.5em;
+  height: 2.5em;
+  margin-top: 1em;
+  margin-bottom: auto;
+  border-radius: 25%;
+  box-shadow: 0px 2px 2px rgba(10,10,10,0.5);
+}
+
+div.green {
+  background-color: rgba(0,255,0,1);
+}
+
+div.blue {
+  background-color: rgba(0,0,255,1);
+}
+
+div.red {
+  background-color: rgba(255,0,0,1);
+}
